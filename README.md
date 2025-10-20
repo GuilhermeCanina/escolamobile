@@ -79,3 +79,9 @@ O servidor estará disponível em `http://localhost:3001`.
   - Cadastro, listagem, edição e exclusão de atividades;
   - Login e logout do professor.
 
+
+## Telas
+
+### Tela de Login
+
+![https://github.com/GuilhermeCanina/escolamobile/blob/c475f948232a5819f28716e08f0f74a70c4fe222/imagens/login%20-%20tela.png]
